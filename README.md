@@ -14,8 +14,8 @@
 
 * <strong>OS: Windows 7-11</strong>
 * <strong>RAM: 16GB or equivalent</strong>
-* <strong>CPU: Intel Core i5-8700 | AMD Ryzen 5 2600</strong>
-* <strong>GPU: NVIDIA GeForce RTX 2060</strong>
+* <strong>CPU: Intel Core i5-8700 | AMD Ryzen 5 2600 or equivalent</strong>
+* <strong>GPU: NVIDIA GeForce RTX 2060 or equivalent</strong>
 * <strong>PowerShell: 3 or higher</strong>
 
 <h2>Lite</h2>
