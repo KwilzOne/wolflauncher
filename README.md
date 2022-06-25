@@ -22,23 +22,8 @@
 
 <h1>Features:</h1>
 
-* <strong>Blocks all banner, video and audio ads in the client</strong>
-* <strong>Unlocks the skip function of any track</strong>
-* <strong>Full screen mode activated</strong>
-* <strong>Hidden podcasts and episodes from the homepage (optional)</strong>
-* <strong>Blocks automatic updates (optional)</strong>
-* <strong>Automatic [cache clearing](https://github.com/amd64fox/SpotX/discussions/2) (optional)</strong>
-* <strong>Enabled [enhance playlist](https://github.com/amd64fox/SpotX/discussions/50#discussion-4108773)</strong>
-* <strong>Enabled [enhance liked songs UI](https://github.com/amd64fox/SpotX/discussions/50#discussioncomment-2851482)</strong> ([temporarily disabled](https://github.com/amd64fox/SpotX/discussions/49))
-* <strong>Enabled [new lyrics](https://github.com/amd64fox/SpotX/discussions/50#discussioncomment-2851485)</strong>
-* <strong>Enabled [new search with chips experience](https://github.com/amd64fox/SpotX/discussions/50#discussioncomment-2851545)</strong>
-* <strong>Enabled [a condensed discography shelf on artist pages](https://github.com/amd64fox/SpotX/discussions/50#discussioncomment-2851591)</strong>
-* <strong>Enabled [Ignore In Recommendations](https://github.com/amd64fox/SpotX/discussions/50#discussioncomment-2996165)</strong>
-* <strong>Activated ["Made For You" in the left sidebar](https://github.com/amd64fox/SpotX/discussions/50#discussioncomment-2853981)</strong>
-* <strong>Disabled Sentry (Prevented Sentry from sending console log/error/warning to Spotify developers)</strong>
-* <strong>Disabled logging (Stopped various elements to log user interaction)</strong>
-* <strong>Removed RTL rules (Removed all right-to-left CSS rules to simplify CSS files)</strong>
-* <strong>Code minification</strong>
+* <strong>Soon..</strong>
+* <strong>Sooooon...</strong>
 
 
 <h1>Fast installation / Update:</h1>
