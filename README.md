@@ -5,7 +5,7 @@
       <a href="https://t.me/spotify_windows_mod"><img src="https://raw.githubusercontent.com/amd64fox/SpotX/main/.github/Pic/Shields/tg.svg"></a>
       <a href="https://www.youtube.com/results?search_query=https%3A%2F%2Fgithub.com%2Famd64fox%2FSpotX"><img src="https://raw.githubusercontent.com/amd64fox/SpotX/main/.github/Pic/Shields/youtube.svg"></a>
       <a href="https://cutt.ly/8EH6NuH"><img src="https://raw.githubusercontent.com/amd64fox/SpotX/main/.github/Pic/Shields/excel.svg"></a>
-      </p>
+</p>
      <h2> <div align="center"><b> The best assembly of MineCraft </b></div> </h2>
 
 <h1>System requirements:</h1>
@@ -49,14 +49,6 @@ or
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; iwr -useb 'https://raw.githubusercontent.com/amd64fox/SpotX/main/Install.ps1' | iex
 ```
 
-<h1>Uninstall:</h1>
-
-* Just run [Uninstall.bat](https://cutt.ly/dErpPEK)
-
-or
-
-* Reinstall Spotify ([Full uninstall](https://github.com/amd64fox/Uninstall-Spotify) recommended)
-
 
 
 <h1>Possible problems:</h1>
@@ -92,5 +84,6 @@ The curl command was not found in the system (in windows 10 and above it comes o
 
 
 <h1>Additional Notes:</h1>
+
 * <strong>Updater: Last client version [1.0.0.0](https://cutt.ly/8EH6NuH)</strong>
 * <strong>Updater: Last launcher version [1.0.0.0](https://cutt.ly/8EH6NuH)</strong>
