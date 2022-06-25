@@ -6,7 +6,7 @@
       <a href="https://www.youtube.com/results?search_query=https%3A%2F%2Fgithub.com%2Famd64fox%2FSpotX"><img src="https://raw.githubusercontent.com/amd64fox/SpotX/main/.github/Pic/Shields/youtube.svg"></a>
       <a href="https://cutt.ly/8EH6NuH"><img src="https://raw.githubusercontent.com/amd64fox/SpotX/main/.github/Pic/Shields/excel.svg"></a>
       </p>
-     <h2> <div align="center"><b> Modified Spotify Client for Windows </b></div> </h2>
+     <h2> <div align="center"><b> The best assembly of MineCraft </b></div> </h2>
 
 <h1>System requirements:</h1>
 
@@ -27,6 +27,12 @@
 * <strong>PowerShell: 3 or higher</strong>
 
 <h1>Features:</h1>
+
+<h2>Common</h2>
+
+* <strong>Soon..</strong>
+
+<h2>Lite</h2>
 
 * <strong>Soon..</strong>
 * <strong>Sooooon...</strong>
