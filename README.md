@@ -1,5 +1,5 @@
   <p align="center">
-  <a href="https://github.com/amd64fox/SpotX/releases"><img src="https://github.com/amd64fox/SpotX/raw/main/.github/Pic/logo.png" />
+  <a href="https://github.com/amd64fox/SpotX/releases"><img src="https://raw.githubusercontent.com/KwilzOne/wolflauncher/74607793f475c4bd208f819b060151bcc1e0f6f9/logo.png" />
 </p>
 <p align="center">        
       <a href="https://t.me/spotify_windows_mod"><img src="https://raw.githubusercontent.com/amd64fox/SpotX/main/.github/Pic/Shields/tg.svg"></a>
