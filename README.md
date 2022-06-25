@@ -11,6 +11,7 @@
 <h1>System requirements:</h1>
 
 <h2>Common</h2>
+
 * <strong>OS: Windows 7-11</strong>
 * <strong>RAM: 16GB or equivalent</strong>
 * <strong>CPU: Intel Core i5-8700 | AMD Ryzen 5 2600</strong>
@@ -18,6 +19,7 @@
 * <strong>PowerShell: 3 or higher</strong>
 
 <h2>Lite</h2>
+
 * <strong>OS: Windows 7-11</strong>
 * <strong>RAM: 8GB or equivalent</strong>
 * <strong>CPU: Intel® Core 2 Duo 2.5GHz | AMD Ryzen 3 2300U or equivalent</strong>
