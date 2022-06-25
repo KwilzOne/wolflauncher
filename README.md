@@ -1,9 +1,6 @@
   <p align="center">
   <a href="https://github.com/amd64fox/SpotX/releases"><img src="https://github.com/amd64fox/SpotX/raw/main/.github/Pic/logo.png" />
 </p>
-
-
-
 <p align="center">        
       <a href="https://t.me/spotify_windows_mod"><img src="https://raw.githubusercontent.com/amd64fox/SpotX/main/.github/Pic/Shields/tg.svg"></a>
       <a href="https://www.youtube.com/results?search_query=https%3A%2F%2Fgithub.com%2Famd64fox%2FSpotX"><img src="https://raw.githubusercontent.com/amd64fox/SpotX/main/.github/Pic/Shields/youtube.svg"></a>
@@ -13,11 +10,18 @@
 
 <h1>System requirements:</h1>
 
-
+<h2>Common</h2>
 * <strong>OS: Windows 7-11</strong>
-* <strong>Spotify: Recommended official version [1.1.88.612](https://cutt.ly/8EH6NuH)</strong>
-* <strong>For Windows Desktop only (Microsoft store version is not suitable).</strong>
-* <strong>Free Account</strong>
+* <strong>RAM: 16GB or equivalent</strong>
+* <strong>CPU: Intel Core i5-8700 | AMD Ryzen 5 2600</strong>
+* <strong>GPU: NVIDIA GeForce RTX 2060</strong>
+* <strong>PowerShell: 3 or higher</strong>
+
+<h2>Lite</h2>
+* <strong>OS: Windows 7-11</strong>
+* <strong>RAM: 8GB or equivalent</strong>
+* <strong>CPU: Intel® Core 2 Duo 2.5GHz | AMD Ryzen 3 2300U or equivalent</strong>
+* <strong>GPU: NVIDIA GeForce GTX 1050 or equivalent</strong>
 * <strong>PowerShell: 3 or higher</strong>
 
 <h1>Features:</h1>
@@ -72,6 +76,8 @@ The curl command was not found in the system (in windows 10 and above it comes o
 
 <details>
 <summary><small>How do I go back to the previous version of the client ?</small></summary><p>
+
+* <strong>Updater: Last clinet version [1.0.0.0](https://cutt.ly/8EH6NuH)</strong>
 
   If you have problems with the patch after upgrading the client version, then use this [tool](https://github.com/amd64fox/Rollback-Spotify) to revert back to the working    version.
 
