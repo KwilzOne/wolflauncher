@@ -77,8 +77,6 @@ The curl command was not found in the system (in windows 10 and above it comes o
 <details>
 <summary><small>How do I go back to the previous version of the client ?</small></summary><p>
 
-* <strong>Updater: Last clinet version [1.0.0.0](https://cutt.ly/8EH6NuH)</strong>
-
   If you have problems with the patch after upgrading the client version, then use this [tool](https://github.com/amd64fox/Rollback-Spotify) to revert back to the working    version.
 
 </details>
@@ -86,8 +84,5 @@ The curl command was not found in the system (in windows 10 and above it comes o
 
 
 <h1>Additional Notes:</h1>
-
-* The repository is based on <a href="https://github.com/mrpond/BlockTheSpot">BlockTheSpot</a>, and also some tricks were taken from <a href="https://github.com/khanhas/spicetify-cli">spicetify-cli</a>, many thanks to the contributors
-* SpotX will only work correctly on the latest versions of Spotify, please make sure of this before asking a question.  
-* The modifiable files are replaced by the Spotify installer every time it is updated, so you will need to apply the patch again when this happens.
-* [SpotX will be installed even if you are using Spicetify](https://github.com/amd64fox/SpotX/discussions/28#discussioncomment-2389043), but you may need to run Install.bat again after running the `spicetify apply` or other commands.
+* <strong>Updater: Last client version [1.0.0.0](https://cutt.ly/8EH6NuH)</strong>
+* <strong>Updater: Last launcher version [1.0.0.0](https://cutt.ly/8EH6NuH)</strong>
