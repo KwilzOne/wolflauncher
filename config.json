@@ -1,0 +1,18 @@
+{
+    "maintenance": false,
+    "maintenance_message": "Test<br>Server",
+    "online": true,
+    "client_id": "",
+    "game_version": "1.18.2",
+    "modde": false,
+    "verify": true,
+    "java": true,
+    "game_args": [],
+    "dataDirectory": "minewolf-max",
+    "ignored": ["crash-reports", "logs", "resources", "saves", "options.txt", "optionsof.txt"],
+    "status": {
+        "nameServer": "Test",
+        "ip": "95.217.151.193",
+        "port": 25565
+    }
+}
